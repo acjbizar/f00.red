@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "version": "20190728",
+    "name": "This Is Not Hope For Minimal Abstract Art Part 1",
+    "default_locale": "en",
+    "description": "Color, website, and domain name, 2015. Hommage to Internet art that was. After a digital triptych by Miktor & Molf († 2013). Inspired by Luca Leggero.",
+    "author": "Alexander Christiaan Jacob",
+    "theme_color": "#ff0000",
+    "homepage_url": "https://f00.red/",
+    "start_url": "https://f00.red/",
+    "icons": [
+        {
+            "src": "https://f00.red/apple-touch-icon.png"
+        }
+    ],
+    "display": "fullscreen"
+}
