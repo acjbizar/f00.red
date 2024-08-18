@@ -1,0 +1,19 @@
+{
+  "$schema": "https:\/\/json.schemastore.org\/web-manifest-combined.json",
+  "lang": "en",
+  "dir": "ltr",
+  "name": "This Is Not Hope For Minimal Abstract Art Part 1",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://f00.red/apple-touch-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "scope": "/",
+  "id": "https://f00.red/",
+  "theme_color": "red",
+  "background_color": "red"
+}
